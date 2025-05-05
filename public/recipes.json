@@ -1,0 +1,807 @@
+{
+  "recipes": [
+    {
+      "name": "Cheesy Mexican Beef",
+      "portions": 4,
+      "method": "1. Spray a large non-stick frying pan with oil and place over a medium heat.\n2. Add the onion and cook for 4\u20135 minutes, then add the garlic and peppers and cook for another 5 minutes.\n3. Add the mince and cook for 3\u20134 minutes, breaking it up with a wooden spoon.\n4. Stir in the rice, tomatoes, seasoning, stock cube and 250ml water.\n5. Simmer for 15\u201320 minutes, stirring often.\n6. Remove from the heat, scatter over the cheese and coriander, and serve.",
+      "ingredients": [
+        {
+          "item": "olive oil",
+          "amount": 2,
+          "unit": "tsp",
+          "category": "Tinned/Cupboard"
+        },
+        {
+          "item": "red onion",
+          "amount": 1,
+          "unit": "small",
+          "prep": "sliced",
+          "category": "Fruit and Vegetables"
+        },
+        {
+          "item": "garlic cloves",
+          "amount": 2,
+          "unit": "whole",
+          "prep": "minced",
+          "category": "Fruit and Vegetables"
+        },
+        {
+          "item": "red pepper",
+          "amount": 1,
+          "unit": "whole",
+          "prep": "deseeded and diced",
+          "category": "Fruit and Vegetables"
+        },
+        {
+          "item": "green pepper",
+          "amount": 1,
+          "unit": "whole",
+          "prep": "deseeded and diced",
+          "category": "Fruit and Vegetables"
+        },
+        {
+          "item": "very lean steak mince",
+          "amount": 400,
+          "unit": "g",
+          "category": "Meat"
+        },
+        {
+          "item": "easy-cook rice",
+          "amount": 260,
+          "unit": "g",
+          "category": "Tinned/Cupboard"
+        },
+        {
+          "item": "chopped tomatoes",
+          "amount": 400,
+          "unit": "g",
+          "note": "tin",
+          "category": "Tinned/Cupboard"
+        },
+        {
+          "item": "Mexican seasoning",
+          "amount": 0.5,
+          "unit": "tbsp",
+          "category": "Tinned/Cupboard"
+        },
+        {
+          "item": "beef stock cube",
+          "amount": 1,
+          "unit": "cube",
+          "category": "Tinned/Cupboard"
+        },
+        {
+          "item": "low-fat Cheddar cheese",
+          "amount": 50,
+          "unit": "g",
+          "category": "Dairy"
+        },
+        {
+          "item": "salt and pepper",
+          "amount": null,
+          "unit": null,
+          "category": "Tinned/Cupboard"
+        },
+        {
+          "item": "fresh coriander",
+          "amount": 1,
+          "unit": "handful",
+          "prep": "to serve",
+          "category": "Fruit and Vegetables"
+        }
+      ]
+    },
+    {
+      "name": "Slow Cooker Beef and Peppers",
+      "portions": 8,
+      "method": "1. Heat the oil in a large frying pan over high heat.\n2. Sear the diced steak for 3\u20134 minutes.\n3. Place all ingredients in a slow cooker and stir.\n4. Cover and cook on low for 7\u20138 hours (or high for 3\u20134 hours).\n5. If thickening is needed, stir in cornflour mixed with a little cold water and cook for 10 more minutes.\n6. Garnish with fresh parsley and serve.",
+      "ingredients": [
+        {
+          "item": "olive oil",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "Tinned/Cupboard"
+        },
+        {
+          "item": "lean braising steak",
+          "amount": 1500,
+          "unit": "g",
+          "prep": "diced",
+          "category": "Meat"
+        },
+        {
+          "item": "onion",
+          "amount": 1,
+          "unit": "whole",
+          "prep": "sliced",
+          "category": "Fruit and Vegetables"
+        },
+        {
+          "item": "red pepper",
+          "amount": 2,
+          "unit": "whole",
+          "prep": "chopped into 2.5cm cubes",
+          "category": "Fruit and Vegetables"
+        },
+        {
+          "item": "yellow pepper",
+          "amount": 2,
+          "unit": "whole",
+          "prep": "chopped into 2.5cm cubes",
+          "category": "Fruit and Vegetables"
+        },
+        {
+          "item": "garlic granules",
+          "amount": 1,
+          "unit": "tbsp",
+          "category": "Tinned/Cupboard"
+        },
+        {
+          "item": "salt",
+          "amount": null,
+          "unit": null,
+          "category": "Tinned/Cupboard"
+        },
+        {
+          "item": "pepper",
+          "amount": null,
+          "unit": null,
+          "category": "Tinned/Cupboard"
+        },
+        {
+          "item": "hot beef stock",
+          "amount": 600,
+          "unit": "ml",
+          "category": "Tinned/Cupboard"
+        },
+        {
+          "item": "sriracha hot sauce",
+          "amount": 2,
+          "unit": "tbsp",
+          "category": "Tinned/Cupboard"
+        },
+        {
+          "item": "Worcestershire sauce",
+          "amount": 2,
+          "unit": "tsp",
+          "category": "Tinned/Cupboard"
+        },
+        {
+          "item": "cornflour",
+          "amount": 3,
+          "unit": "tbsp",
+          "category": "Tinned/Cupboard"
+        },
+        {
+          "item": "fresh parsley",
+          "amount": 1,
+          "unit": "handful",
+          "prep": "chopped, to serve",
+          "category": "Fruit and Vegetables"
+        }
+      ]
+    },
+    {
+      "name": "Chilli con carne",
+      "portions": 4,
+      "method": "1. Prepare your vegetables. Chop the onion into small dice, about 5mm square. Chop the red pepper and finely chop the garlic cloves.\n2. Heat the oil in a pan over medium heat. Add the oil and let it heat for 1–2 minutes.\n3. Add the onion and cook, stirring frequently, for 5 minutes until soft and translucent.\n4. Add garlic, red pepper, chilli powder, paprika, and cumin. Stir and cook for 5 minutes.\n5. Turn up the heat and brown the mince. Break it up as it cooks.\n6. Dissolve the stock cube in 300ml hot water. Add it to the pan.\n7. Add chopped tomatoes, marjoram, sugar, and tomato purée. Season with salt and pepper. Stir well.\n8. Bring to a boil, then cover and simmer for 20 minutes.\n9. Stir occasionally and add water if needed. Simmer until thick and juicy.\n10. Drain and rinse the kidney beans. Add them to the pan. Simmer uncovered for 10 minutes more.\n11. Taste and adjust seasoning.\n12. Rest with lid on for 10 minutes before serving.\n13. Serve with plain boiled long grain rice and a dollop of soured cream.",
+      "ingredients": [
+        { "item": "onion", "amount": 1, "unit": "large", "prep": "diced", "category": "Fruit and Vegetables" },
+        { "item": "red pepper", "amount": 1, "unit": "whole", "prep": "chopped", "category": "Fruit and Vegetables" },
+        { "item": "garlic cloves", "amount": 2, "unit": "whole", "prep": "finely chopped", "category": "Fruit and Vegetables" },
+        { "item": "oil", "amount": 1, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "hot chilli powder", "amount": 1, "unit": "heaped tsp", "category": "Tinned/Cupboard" },
+        { "item": "paprika", "amount": 1, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "ground cumin", "amount": 1, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "lean minced beef", "amount": 500, "unit": "g", "category": "Meat" },
+        { "item": "beef stock cube", "amount": 1, "unit": "cube", "category": "Tinned/Cupboard" },
+        { "item": "chopped tomatoes", "amount": 400, "unit": "g", "note": "can", "category": "Tinned/Cupboard" },
+        { "item": "dried marjoram", "amount": 0.5, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "sugar", "amount": 1, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "tomato purée", "amount": 2, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "red kidney beans", "amount": 410, "unit": "g", "note": "can", "category": "Tinned/Cupboard" },
+        { "item": "long grain rice", "amount": null, "unit": null, "prep": "to serve", "category": "Tinned/Cupboard" },
+        { "item": "soured cream", "amount": null, "unit": null, "prep": "to serve", "category": "Dairy" },
+        { "item": "salt and pepper", "amount": null, "unit": null, "category": "Tinned/Cupboard" }
+      ]
+    },
+    {
+      "name": "Sausage and Bean Casserole",
+      "portions": 4,
+      "method": "1. Heat 1 tbsp oil in a large frying pan and fry sausages gently for 10 minutes, turning until nicely browned. Transfer to a casserole dish.\n2. Fry the bacon until crisp, then add to the sausages.\n3. Fry the onions for 5 minutes, then add garlic and cook for 2–3 more minutes until soft.\n4. Sprinkle in the chilli powder and stir briefly.\n5. Add tomatoes, stock, tomato purée, Worcestershire sauce, sugar, herbs, and wine or water. Bring to a simmer.\n6. Pour the mixture into the casserole dish. Cover loosely and simmer very gently for 20 minutes.\n7. Add drained beans and simmer uncovered for 10 minutes until thickened.\n8. Season with salt and black pepper. Serve with rice or rustic bread.",
+      "ingredients": [
+        { "item": "sunflower oil", "amount": 1, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "pork sausages", "amount": 12, "unit": "whole", "category": "Meat" },
+        { "item": "streaky bacon", "amount": 6, "unit": "rashers", "prep": "cut into 2.5cm pieces", "category": "Meat" },
+        { "item": "onions", "amount": 2, "unit": "whole", "prep": "thinly sliced", "category": "Fruit and Vegetables" },
+        { "item": "garlic cloves", "amount": 2, "unit": "whole", "prep": "crushed", "category": "Fruit and Vegetables" },
+        { "item": "chilli powder", "amount": 0.5, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "chopped tomatoes", "amount": 400, "unit": "g", "note": "tin", "category": "Tinned/Cupboard" },
+        { "item": "chicken stock", "amount": 300, "unit": "ml", "category": "Tinned/Cupboard" },
+        { "item": "tomato purée", "amount": 2, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "Worcestershire sauce", "amount": 1, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "muscovado sugar", "amount": 1, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "dried mixed herbs", "amount": 1, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "bay leaves", "amount": 2, "unit": "whole", "category": "Tinned/Cupboard" },
+        { "item": "thyme sprigs", "amount": 4, "unit": "sprigs", "category": "Fruit and Vegetables" },
+        { "item": "red or white wine", "amount": 100, "unit": "ml", "optional": true, "category": "Tinned/Cupboard" },
+        { "item": "butter beans", "amount": 400, "unit": "g", "note": "tin", "prep": "drained and rinsed", "category": "Tinned/Cupboard" },
+        { "item": "salt and pepper", "amount": null, "unit": null, "category": "Tinned/Cupboard" },
+        { "item": "rice or rustic bread", "amount": null, "unit": null, "prep": "to serve", "category": "Bakery" }
+      ]
+    },
+    {
+      "name": "Chicken, Bacon and Leek",
+      "portions": 4,
+      "method": "1. Heat the oil in a large frying pan or shallow casserole. Add the chicken and lardons and cook until golden. Add the leeks and cook for 2–3 minutes until softened. Scatter over the flour and stir until absorbed.\n2. Gradually pour in the stock then cook for 5 minutes, or until the chicken is cooked through with no pink meat showing and the sauce has thickened. Preheat the oven to 180. Stir the crème fraîche or cream into the chicken mixture and season well. Carefully pour the mixture into a large baking dish.\n3. Put chicken pan into overn for 30 minutes, when you take out stir through the creme freche and serve with rice, top with cheese and parsley",
+      "ingredients": [
+        { "item": "olive oil", "amount": 1, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "chicken thigh fillets", "amount": 500, "unit": "g", "prep": "chopped into bite-sized chunks", "category": "Meat" },
+        { "item": "lardons", "amount": 100, "unit": "g", "category": "Meat" },
+        { "item": "leeks", "amount": 2, "unit": "whole", "prep": "sliced", "category": "Fruit and Vegetables" },
+        { "item": "plain flour", "amount": 1, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "chicken stock", "amount": 250, "unit": "ml", "category": "Tinned/Cupboard" },
+        { "item": "low-fat crème fraîche or double cream", "amount": 2, "unit": "tbsp", "category": "Dairy" },
+        { "item": "packet rice", "amount": 2, "unit": "packets", "category": "Tinned/Cupboard" },
+        { "item": "fresh parsley", "amount": 1, "unit": "handful", "prep": "chopped", "category": "Fruit and Vegetables" },
+        { "item": "Cheddar cheese", "amount": 50, "unit": "g", "prep": "grated", "category": "Dairy" }
+      ]
+    },
+    {
+      "name": "Teriyaki Beef Mince with Jasmine Rice and Cucumber Pickle",
+      "portions": 4,
+      "method": "1. Peel and grate the garlic (or use a garlic press). Peel and grate the ginger. Trim the spring onions then slice thinly. Trim the green beans and chop into thirds. Trim the cucumber then halve lengthways. Thinly slice widthways. Zest and halve the lime.\n2. Pour the cold water for the rice (see ingredients for amount) into a medium saucepan with a tight-fitting lid. Stir in the rice and 1/4 tsp of salt, cover with the lid and bring to the boil on medium-high heat. Once boiling, turn the heat down to its lowest setting. Leave to cook for 10 mins, then remove the pan from the heat (still covered) and leave to the side for another 10 mins or until ready to serve (the rice will continue to cook in its own steam).\n3. Meanwhile, heat a large frying pan over medium heat and add the sesame seeds (no oil). Cook, stirring regularly, until golden, 2–3 mins. TIP: Watch them like a hawk as they burn easily. Transfer to a small bowl but keep the pan. In another small bowl, combine the teriyaki sauce with the ginger and garlic. Squeeze the lime juice into a medium bowl and add the sugar (see ingredients for amount). Add half the toasted sesame seeds, season with salt and pepper and mix together. Add the cucumber to the bowl and mix to combine.\n4. Heat a drizzle of oil in your frying pan on a medium-high heat. When hot, add the beef mince and cook until browned, 5–6 mins. IMPORTANT: Wash your hands and equipment after handling raw mince. Use a wooden spoon to break it up as it cooks. Drain and discard any excess fat from the beef, then season with salt and pepper. IMPORTANT: The mince is cooked when no longer pink in the middle.\n5. Turn the heat down to medium, add the green beans, cover with a lid and cook for 2–3 mins. Next, add the sauce mixture with the water (see ingredients for amount) and half the spring onion. Cook uncovered until the sauce has thickened and the beans are tender, 2–3 mins. Add a splash of water if necessary.\n6. Fluff up the rice with a fork and stir in the lime zest. Divide the rice between bowls and top with the beef. Sprinkle over the remaining spring onion and sesame seeds and serve with the cucumber pickle and any remaining lime wedges for squeezing over. Enjoy!",
+      "ingredients": [
+        { "item": "garlic cloves", "amount": 4, "unit": "whole", "prep": "grated", "category": "Fruit and Vegetables" },
+        { "item": "ginger", "amount": 1, "unit": "thumb", "prep": "grated", "category": "Fruit and Vegetables" },
+        { "item": "spring onions", "amount": 2, "unit": "whole", "prep": "thinly sliced", "category": "Fruit and Vegetables" },
+        { "item": "green beans", "amount": 150, "unit": "g", "prep": "chopped into thirds", "category": "Fruit and Vegetables" },
+        { "item": "cucumber", "amount": 1, "unit": "whole", "prep": "thinly sliced", "category": "Fruit and Vegetables" },
+        { "item": "lime", "amount": 1, "unit": "whole", "prep": "zested and halved", "category": "Fruit and Vegetables" },
+        { "item": "jasmine rice", "amount": 300, "unit": "g", "category": "Tinned/Cupboard" },
+        { "item": "sesame seeds", "amount": 15, "unit": "g", "category": "Tinned/Cupboard" },
+        { "item": "teriyaki sauce", "amount": 200, "unit": "g", "category": "Tinned/Cupboard" },
+        { "item": "beef mince", "amount": 480, "unit": "g", "category": "Meat" },
+        { "item": "sugar", "amount": 2, "unit": "tsp", "prep": "for the pickle", "category": "Tinned/Cupboard" },
+        { "item": "water", "amount": 600, "unit": "ml", "prep": "for the rice", "category": "Tinned/Cupboard" },
+        { "item": "water", "amount": 100, "unit": "ml", "prep": "for the sauce", "category": "Tinned/Cupboard" },
+        { "item": "salt and pepper", "amount": null, "unit": null, "category": "Tinned/Cupboard" }
+      ]
+    },
+    {
+      "name": "Chicken Pasta Bake",
+      "portions": 6,
+      "method": "1. Heat 2 tbsp of the oil in a pan over a medium heat and fry the onion gently for 10–12 minutes. Add the garlic and chilli flakes and cook for 1 minute. Tip in the tomatoes and sugar and season to taste. Simmer uncovered for 20 minutes or until thickened, then stir through the mascarpone.\n2. Heat 1 tbsp of oil in a non-stick frying pan. Season the chicken and fry for 5–7 minutes or until the chicken is cooked through.\n3. Heat the oven to 220C/200C fan/gas 7. Cook the penne following pack instructions. Drain and toss with the remaining oil. Tip the pasta into a medium-sized ovenproof dish. Stir in the chicken and pour over the sauce. Top with the cheddar, mozzarella, and parsley. Bake for 20 minutes or until golden brown and bubbling.",
+      "ingredients": [
+        { "item": "olive oil", "amount": 4, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "onion", "amount": 1, "unit": "whole", "prep": "finely chopped", "category": "Fruit and Vegetables" },
+        { "item": "garlic cloves", "amount": 2, "unit": "whole", "prep": "crushed", "category": "Fruit and Vegetables" },
+        { "item": "chilli flakes", "amount": 0.25, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "chopped tomatoes", "amount": 800, "unit": "g", "note": "2 x 400g cans", "category": "Tinned/Cupboard" },
+        { "item": "caster sugar", "amount": 1, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "mascarpone", "amount": 6, "unit": "tbsp", "category": "Dairy" },
+        { "item": "chicken breasts", "amount": 4, "unit": "whole", "prep": "sliced into strips", "category": "Meat" },
+        { "item": "penne pasta", "amount": 300, "unit": "g", "category": "Tinned/Cupboard" },
+        { "item": "mature cheddar", "amount": 70, "unit": "g", "prep": "grated", "category": "Dairy" },
+        { "item": "mozzarella", "amount": 50, "unit": "g", "prep": "grated", "category": "Dairy" },
+        { "item": "parsley", "amount": 0.5, "unit": "small bunch", "prep": "finely chopped", "category": "Fruit and Vegetables" },
+        { "item": "salt and pepper", "amount": null, "unit": null, "category": "Tinned/Cupboard" }
+      ]
+    },
+    {
+      "name": "Saucy Sausage Pasta",
+      "portions": 4,
+      "method": "1. Put a large pan of water on to boil.\n2. Heat 1 tbsp olive oil in a large frying pan and fry chunky pieces of 8 pork sausages on a fairly high heat until they are golden brown all over.\n3. Now turn the heat down and add 1 large chopped onion and 2 crushed garlic cloves, cooking them until they have softened.\n4. Stir in 1 tsp chilli powder and 400g chopped tomatoes with the sausages, bring the sauce to the boil then turn the heat down and let it bubble for about 10 minutes while you cook the pasta.\n5. Drop 300g pasta into the pan of boiling water and cook according to the pack instructions.\n6. Drain the pasta, then tip it into the frying pan with the sausage sauce, mixing well to coat. Dish up immediately with crusty bread.",
+      "ingredients": [
+        { "item": "olive oil", "amount": 1, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "pork sausages", "amount": 8, "unit": "whole", "prep": "cut into chunky pieces", "category": "Meat" },
+        { "item": "onion", "amount": 1, "unit": "large", "prep": "chopped", "category": "Fruit and Vegetables" },
+        { "item": "garlic cloves", "amount": 2, "unit": "whole", "prep": "crushed", "category": "Fruit and Vegetables" },
+        { "item": "chilli powder", "amount": 1, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "chopped tomatoes", "amount": 400, "unit": "g", "note": "can", "category": "Tinned/Cupboard" },
+        { "item": "short pasta", "amount": 300, "unit": "g", "note": "such as fusilli or farfalle", "category": "Tinned/Cupboard" },
+        { "item": "salt and pepper", "amount": null, "unit": null, "category": "Tinned/Cupboard" }
+      ]
+    },
+    {
+      "name": "Baked Mac and Cheese",
+      "portions": 6,
+      "method": "1. Cook pasta: Bring a large pot of water to the boil. Add macaroni and cook per packet directions MINUS 1 minute.\n2. Toss in butter: Drain, return pasta to pot, add butter and toss until melted. Set aside to cool while making the sauce.\n3. Topping: Mix together breadcrumbs and melted butter. Set aside.\n4. Preheat oven to 180°C/350°F.\n5. Make roux: In a large saucepan or ovenproof skillet, melt butter over medium heat. Add flour and cook, stirring constantly, for 1 minute.\n6. Add milk: Add about 1 cup of milk and whisk to dissolve the paste. Then add remaining milk and whisk until lump free.\n7. Add seasonings: Stir in salt, garlic powder, onion powder and mustard powder.\n8. Thicken sauce: Cook, whisking regularly for 5–8 minutes until thickened to a cream consistency. When the sauce coats the back of a spoon, it’s ready.\n9. Add cheese: Remove from heat, stir in shredded cheeses until melted.\n10. Check salt: Adjust to taste as needed.\n11. Assemble: Pour sauce into pot with macaroni, stir quickly, then pour into a baking dish. Sprinkle with breadcrumb topping.\n12. Bake for 25 minutes or until the top is light golden. Do not overbake.\n13. Serve immediately. Optionally garnish with chopped fresh parsley.",
+      "ingredients": [
+        { "item": "macaroni", "amount": 250, "unit": "g", "note": "elbow pasta", "category": "Tinned/Cupboard" },
+        { "item": "unsalted butter", "amount": 15, "unit": "g", "note": "or 2 tsp oil", "category": "Dairy" },
+        { "item": "panko breadcrumbs", "amount": 45, "unit": "g", "category": "Tinned/Cupboard" },
+        { "item": "unsalted butter", "amount": 30, "unit": "g", "prep": "melted", "category": "Dairy" },
+        { "item": "salt", "amount": 0.25, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "unsalted butter", "amount": 60, "unit": "g", "category": "Dairy" },
+        { "item": "plain flour", "amount": 45, "unit": "g", "category": "Tinned/Cupboard" },
+        { "item": "milk", "amount": 720, "unit": "ml", "prep": "warmed", "category": "Dairy" },
+        { "item": "shredded cheese", "amount": 2, "unit": "cups", "note": "gruyère, cheddar or colby", "category": "Dairy" },
+        { "item": "shredded mozzarella cheese", "amount": 1, "unit": "cup", "note": "or other cheese of choice", "category": "Dairy" },
+        { "item": "salt", "amount": 0.75, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "garlic powder", "amount": 1, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "onion powder", "amount": 0.5, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "mustard powder", "amount": 0.5, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "parsley", "amount": null, "unit": null, "prep": "chopped, to garnish", "category": "Fruit and Vegetables" }
+      ]
+    },
+    {
+      "name": "Creamy Garlic Pork Chops with Garlic Butter Noodles and Broccoli",
+      "portions": 4,
+      "method": "1. Take the pork chops out of the fridge 15–30 minutes before cooking. Season with salt and pepper on both sides.\n2. In a deep skillet, heat the olive oil and 1 tbsp of butter over medium-high heat. Sear the pork chops for 3–5 minutes per side until golden. Transfer to a plate.\n3. Add the remaining butter and whole garlic cloves to the skillet. Cook over medium heat for about 3 minutes until the garlic is browned.\n4. Push garlic to the side and sprinkle in flour. Stir to form a roux.\n5. Add chicken broth and lemon juice. Stir for a minute until it begins to thicken.\n6. Add garlic powder and cream. Whisk until smooth.\n7. Return pork to the pan and simmer for 3–5 minutes until the sauce thickens and pork is fully cooked. Let rest before serving. Season with extra salt and pepper and sprinkle with parsley.\n8. Meanwhile, boil salted water and cook egg noodles according to the package.\n9. About 5 minutes before noodles are ready, melt butter in a skillet. Add minced garlic and cook 1–2 minutes, stirring.\n10. Drain noodles (reserving 2 tbsp pasta water). Add to skillet with pasta water, parmesan, and parsley. Toss to coat. Season with salt and pepper.\n11. Steam or boil broccoli until tender.\n12. Serve pork chops with sauce over noodles and a side of broccoli.",
+      "ingredients": [
+        { "item": "pork chops", "amount": 4, "unit": "whole", "category": "Meat" },
+        { "item": "salt and pepper", "amount": null, "unit": null, "category": "Tinned/Cupboard" },
+        { "item": "olive oil", "amount": 1, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "unsalted butter", "amount": 60, "unit": "g", "note": "divided", "category": "Dairy" },
+        { "item": "garlic cloves", "amount": 8, "unit": "whole", "prep": "peeled and minced", "category": "Fruit and Vegetables" },
+        { "item": "plain flour", "amount": 1, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "chicken broth", "amount": 120, "unit": "ml", "category": "Tinned/Cupboard" },
+        { "item": "lemon juice", "amount": 0.5, "unit": "tsp", "category": "Fruit and Vegetables" },
+        { "item": "garlic powder", "amount": 0.25, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "heavy/whipping cream", "amount": 180, "unit": "ml", "category": "Dairy" },
+        { "item": "parsley", "amount": 1, "unit": "tbsp", "prep": "chopped", "category": "Fruit and Vegetables" },
+        { "item": "egg noodles", "amount": 225, "unit": "g", "category": "Tinned/Cupboard" },
+        { "item": "parmesan cheese", "amount": 60, "unit": "ml", "prep": "freshly grated", "category": "Dairy" },
+        { "item": "broccoli", "amount": 1, "unit": "head", "prep": "cut into florets", "category": "Fruit and Vegetables" }
+      ]
+    },
+    {
+      "name": "Homemade Lasagne",
+      "portions": 8,
+      "method": "1. Drizzle around 1 tbsp olive oil into a large pot over medium-high heat.\n2. Add the beef, break it up with a wooden spoon and season with salt and pepper. Cook until fully browned, then scoop out into a lasagne dish (discarding any excess fat).\n3. Lower heat to medium and add pancetta. Fry until it begins to brown and release its fat.\n4. Add celery, onion, and carrot. Cook until softened and beginning to brown.\n5. Add garlic and fry for 1 minute, then add tomato puree.\n6. Fry the tomato puree for a few minutes, then deglaze the pan with the wine. Let it reduce, then stir in the beef.\n7. Add beef stock, tomato passata, parsley, basil, oregano, bay leaves, sugar, and more salt and pepper. Bring to a simmer, cover and cook for 1 hour 30 mins, stirring occasionally. Uncover and simmer another 20–30 minutes to reduce. Adjust seasoning.\n8. In a saucepan, melt butter. Stir in flour to make a roux.\n9. Slowly whisk in milk. Simmer 7–10 minutes, then add nutmeg, parmesan, salt and pepper. Simmer until thick but pourable.\n10. Preheat oven to 180°C (350°F).\n11. In a 20x30cm baking dish, spread a little ragu. Then layer: pasta sheets, ragu, bechamel, mozzarella. Repeat 3 more times, ending with pasta, bechamel, mozzarella and parmesan on top.\n12. Bake for 30–40 minutes until golden and bubbling.\n13. Let rest 10 minutes before slicing.\n14. Serve with a sprinkle of basil or parsley, salad and garlic bread.",
+      "ingredients": [
+        { "item": "minced beef", "amount": 1000, "unit": "g", "category": "Meat" },
+        { "item": "pancetta", "amount": 100, "unit": "g", "prep": "finely diced", "category": "Meat" },
+        { "item": "tomato passata", "amount": 500, "unit": "ml", "category": "Tinned/Cupboard" },
+        { "item": "beef stock", "amount": 500, "unit": "ml", "category": "Tinned/Cupboard" },
+        { "item": "red wine", "amount": 250, "unit": "ml", "category": "Tinned/Cupboard" },
+        { "item": "celery", "amount": 2, "unit": "ribs", "prep": "finely diced", "category": "Fruit and Vegetables" },
+        { "item": "carrots", "amount": 2, "unit": "whole", "prep": "grated", "category": "Fruit and Vegetables" },
+        { "item": "onion", "amount": 1, "unit": "large", "prep": "finely diced", "category": "Fruit and Vegetables" },
+        { "item": "garlic cloves", "amount": 3, "unit": "whole", "prep": "finely diced", "category": "Fruit and Vegetables" },
+        { "item": "tomato puree", "amount": 2, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "bay leaves", "amount": 2, "unit": "whole", "category": "Tinned/Cupboard" },
+        { "item": "fresh basil", "amount": 1, "unit": "small bunch", "prep": "finely chopped", "category": "Fruit and Vegetables" },
+        { "item": "fresh parsley", "amount": 1, "unit": "small bunch", "prep": "finely chopped", "category": "Fruit and Vegetables" },
+        { "item": "dried oregano", "amount": 1, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "sugar", "amount": 1.5, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "salt and pepper", "amount": null, "unit": null, "category": "Tinned/Cupboard" },
+        { "item": "olive oil", "amount": 1, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "milk", "amount": 1000, "unit": "ml", "category": "Dairy" },
+        { "item": "plain flour", "amount": 60, "unit": "g", "category": "Tinned/Cupboard" },
+        { "item": "butter", "amount": 60, "unit": "g", "category": "Dairy" },
+        { "item": "nutmeg", "amount": 0.5, "unit": "tsp", "prep": "finely grated", "category": "Tinned/Cupboard" },
+        { "item": "parmesan", "amount": 120, "unit": "g", "prep": "freshly grated", "category": "Dairy" },
+        { "item": "fresh lasagne sheets", "amount": 350, "unit": "g", "category": "Tinned/Cupboard" },
+        { "item": "mozzarella", "amount": 200, "unit": "g", "prep": "shredded", "category": "Dairy" },
+        { "item": "garlic bread", "amount": 1, "unit": "pack", "prep": "to serve", "category": "Bakery" },
+        { "item": "mixed salad", "amount": 1, "unit": "bag", "prep": "to serve", "category": "Fruit and Vegetables" }
+      ]
+    },
+    {
+      "name": "Cottage Pie",
+      "portions": 10,
+      "method": "1. Heat 1 tbsp olive oil in a large saucepan and fry the beef mince until browned. Set aside as it browns.\n2. Add the remaining 2 tbsp oil, onions, carrots, and celery to the pan. Cook gently for 20 minutes until soft.\n3. Stir in garlic, flour, and tomato purée. Increase heat and cook for a few minutes.\n4. Pour over the red wine (if using) and boil to reduce slightly. Add beef stock, Worcestershire sauce, thyme sprigs, and bay leaves. Stir, then return the beef to the pan.\n5. Simmer uncovered for 45 minutes. Check after 30 minutes and reduce further if needed. Season well, discard bay leaves and thyme.\n6. In a separate pot, cover the potatoes with salted cold water. Bring to the boil and simmer until tender.\n7. Drain well and steam dry. Mash with milk, butter, and three-quarters of the cheese. Season with nutmeg, salt and pepper.\n8. Spoon the meat mixture into two ovenproof dishes. Top with the mash and sprinkle on the remaining cheese.\n9. Bake at 220°C/200°C fan/gas 7 for 25–30 minutes until the top is golden.\n10. Alternatively, cook the mince filling in a slow cooker on High for 4–5 hours, then assemble and oven bake as above.",
+      "ingredients": [
+        { "item": "olive oil", "amount": 3, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "beef mince", "amount": 1250, "unit": "g", "category": "Meat" },
+        { "item": "onions", "amount": 2, "unit": "whole", "prep": "finely chopped", "category": "Fruit and Vegetables" },
+        { "item": "carrots", "amount": 3, "unit": "whole", "prep": "chopped", "category": "Fruit and Vegetables" },
+        { "item": "celery sticks", "amount": 3, "unit": "whole", "prep": "chopped", "category": "Fruit and Vegetables" },
+        { "item": "garlic cloves", "amount": 2, "unit": "whole", "prep": "finely chopped", "category": "Fruit and Vegetables" },
+        { "item": "plain flour", "amount": 3, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "tomato purée", "amount": 1, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "red wine", "amount": 250, "unit": "ml", "optional": true, "category": "Tinned/Cupboard" },
+        { "item": "beef stock", "amount": 850, "unit": "ml", "category": "Tinned/Cupboard" },
+        { "item": "Worcestershire sauce", "amount": 4, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "thyme sprigs", "amount": 3, "unit": "sprigs", "category": "Fruit and Vegetables" },
+        { "item": "bay leaves", "amount": 2, "unit": "whole", "category": "Tinned/Cupboard" },
+        { "item": "potatoes", "amount": 1800, "unit": "g", "prep": "peeled and chopped", "category": "Fruit and Vegetables" },
+        { "item": "milk", "amount": 225, "unit": "ml", "category": "Dairy" },
+        { "item": "butter", "amount": 25, "unit": "g", "category": "Dairy" },
+        { "item": "cheddar cheese", "amount": 200, "unit": "g", "prep": "grated", "category": "Dairy" },
+        { "item": "nutmeg", "amount": 1, "unit": "tsp", "prep": "freshly grated", "category": "Tinned/Cupboard" },
+        { "item": "salt and pepper", "amount": null, "unit": null, "category": "Tinned/Cupboard" }
+      ]
+    },
+    {
+      "name": "Lamb Koftas with chips",
+      "portions": 8,
+      "method": "1. Combine the yoghurt sauce ingredients in a bowl and refrigerate for at least 20 minutes (overnight preferred).\n2. Grate the onion into a large bowl. Add all remaining kofta ingredients and mix well by hand.\n3. With damp hands, divide the mix into 8 equal portions. Shape onto skewers—smooth or slightly rough depending on preference.\n4. Stove: Heat 1/2 tbsp oil in a skillet over medium-high heat. Cook koftas in batches, turning to brown all sides for 5 minutes total.\n5. BBQ: Grill on medium heat for about 6 minutes, turning regularly.\n6. Oven grill: Preheat and grill 30cm/10\" from heat source for 12 minutes, rotating until lightly browned.\n7. To serve, pile everything onto a platter for a DIY spread, or fill flatbreads with koftas, yoghurt sauce, red onion, tomato, cucumber, and drizzle with harissa oil. Serve with chips on the side.",
+      "ingredients": [
+        { "item": "lamb mince", "amount": 500, "unit": "g", "category": "Meat" },
+        { "item": "onion", "amount": 0.5, "unit": "whole", "prep": "grated", "category": "Fruit and Vegetables" },
+        { "item": "panko breadcrumbs", "amount": 0.25, "unit": "cup", "category": "Tinned/Cupboard" },
+        { "item": "garlic cloves", "amount": 3, "unit": "whole", "prep": "crushed", "category": "Fruit and Vegetables" },
+        { "item": "fresh coriander", "amount": 2, "unit": "tbsp", "prep": "chopped", "category": "Fruit and Vegetables" },
+        { "item": "ground cumin", "amount": 3, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "ground coriander", "amount": 2, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "paprika", "amount": 2, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "ground cinnamon", "amount": 1.5, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "cayenne pepper", "amount": 0.75, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "kosher salt", "amount": 1, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "black pepper", "amount": 0.5, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "plain yoghurt", "amount": 240, "unit": "ml", "note": "Greek or thick yoghurt", "category": "Dairy" },
+        { "item": "extra virgin olive oil", "amount": 0.5, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "lemon juice", "amount": 1, "unit": "tbsp", "category": "Fruit and Vegetables" },
+        { "item": "salt and pepper", "amount": null, "unit": null, "category": "Tinned/Cupboard" },
+        { "item": "flatbreads", "amount": 8, "unit": "small", "category": "Bakery" },
+        { "item": "harissa oil", "amount": null, "unit": null, "prep": "to drizzle", "category": "Tinned/Cupboard" },
+        { "item": "red onion", "amount": 1, "unit": "whole", "prep": "sliced", "category": "Fruit and Vegetables" },
+        { "item": "tomato", "amount": 2, "unit": "whole", "prep": "sliced", "category": "Fruit and Vegetables" },
+        { "item": "cucumber", "amount": 0.5, "unit": "whole", "prep": "sliced", "category": "Fruit and Vegetables" },
+        { "item": "chips", "amount": null, "unit": null, "prep": "to serve", "category": "Frozen" }
+      ]
+    },
+    {
+      "name": "Chicken Gyros with feta chips",
+      "portions": 4,
+      "method": "1. Mix together the yoghurt, garlic, olive oil, juice of 1 lemon, all the spices, and ½ tsp each of sea salt and black pepper.\n2. Place the chicken thighs between two sheets of greaseproof paper and flatten them to 1 cm thick using a rolling pin or frying pan base.\n3. Add the chicken to the marinade, mix well, cover, and refrigerate overnight.\n4. Light a barbecue about 30 minutes before cooking. Let the flames die down and the charcoal turn grey at the edges.\n5. Thread the chicken onto 2 large skewers, packing tightly but not overly compact. This helps them cook evenly.\n6. Grill the skewers over indirect heat for 45–60 minutes, turning occasionally. The chicken is ready when juices run clear when pierced.\n7. Drizzle cooked skewers with olive oil and the juice of the second lemon. Move closer to the heat for a final 10 minutes to lightly char.\n8. To serve, stand skewers upright and slice meat onto warm pitta breads. Top with tzatziki, red onion, tomato, oregano, crumbled feta, and serve with chips and lemon wedges.",
+      "ingredients": [
+        { "item": "Greek yoghurt", "amount": 300, "unit": "g", "category": "Dairy" },
+        { "item": "garlic cloves", "amount": 4, "unit": "whole", "prep": "crushed or grated", "category": "Fruit and Vegetables" },
+        { "item": "olive oil", "amount": 6, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "lemons", "amount": 2, "unit": "whole", "prep": "juiced", "category": "Fruit and Vegetables" },
+        { "item": "ground coriander", "amount": 1, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "dried oregano", "amount": 1, "unit": "tbsp", "prep": "plus extra for garnish", "category": "Tinned/Cupboard" },
+        { "item": "smoked paprika", "amount": 1, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "ground cinnamon", "amount": 1, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "cayenne pepper", "amount": 0.25, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "chicken thighs", "amount": 800, "unit": "g", "prep": "skinless and boneless", "category": "Meat" },
+        { "item": "salt and pepper", "amount": null, "unit": null, "category": "Tinned/Cupboard" },
+        { "item": "pitta breads", "amount": 4, "unit": "whole", "prep": "warmed", "category": "Bakery" },
+        { "item": "tzatziki", "amount": null, "unit": null, "prep": "to serve", "category": "Dairy" },
+        { "item": "red onion", "amount": 1, "unit": "whole", "prep": "thinly sliced", "category": "Fruit and Vegetables" },
+        { "item": "tomatoes", "amount": 2, "unit": "whole", "prep": "sliced", "category": "Fruit and Vegetables" },
+        { "item": "feta cheese", "amount": 100, "unit": "g", "prep": "crumbled", "category": "Dairy" },
+        { "item": "chips", "amount": null, "unit": null, "prep": "to serve", "category": "Frozen" }
+      ]
+    },
+    {
+      "name": "Onion Gravy",
+      "portions": 4,
+      "method": "1. Melt the butter in a saucepan over medium-high heat.\n2. Add the sliced onions and sugar. Cook for about 30 minutes until caramelised and deep golden.\n3. Add the red wine and thyme. Bring to a rapid boil for 2 minutes, then reduce heat and simmer for 10 minutes.\n4. Add beef stock, salt, pepper, mustard, and Worcestershire sauce. Bring to a boil, then reduce to a low simmer. Cover and simmer for 20 minutes.\n5. Remove the sprigs of thyme.\n6. Add vinegar and whisk in cornstarch. Simmer for another 1–2 minutes, whisking constantly until thickened.\n7. Add the cold butter and whisk until fully dissolved.\n8. Adjust seasoning with more salt, pepper, and mustard if desired.",
+      "ingredients": [
+        { "item": "butter", "amount": 25, "unit": "g", "category": "Dairy" },
+        { "item": "sugar", "amount": 2, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "onion", "amount": 1, "unit": "large", "prep": "sliced", "category": "Fruit and Vegetables" },
+        { "item": "red wine", "amount": 62, "unit": "ml", "category": "Tinned/Cupboard" },
+        { "item": "fresh thyme", "amount": 2, "unit": "sprigs", "category": "Fruit and Vegetables" },
+        { "item": "beef stock", "amount": 240, "unit": "ml", "category": "Tinned/Cupboard" },
+        { "item": "salt and pepper", "amount": null, "unit": null, "category": "Tinned/Cupboard" }
+      ]
+    },
+    {
+      "name": "Beef Stroganoff",
+      "portions": 4,
+      "method": "1. Heat 1 tbsp olive oil in a non-stick frying pan, add the sliced onion and cook over medium heat for about 15 minutes until completely softened. Add a splash of water if it starts to stick.\n2. Add the crushed garlic and cook for 2–3 minutes more, then stir in 1 tbsp butter.\n3. Once the butter foams, add the mushrooms and cook for 5 minutes until softened. Season, then tip onto a plate.\n4. In a bowl, combine the flour with a pinch of salt and pepper. Toss the steak slices in the seasoned flour.\n5. Add the steak to the pan (with a splash more oil if needed) and fry for 3–4 minutes until browned.\n6. Return the onions and mushrooms to the pan. In a bowl, mix the crème fraîche, mustard, and beef stock, then add to the pan.\n7. Simmer everything together on medium heat for 5 minutes.\n8. Serve scattered with chopped parsley, alongside rice or pappardelle, garlic bread, and tenderstem broccoli.",
+      "ingredients": [
+        { "item": "olive oil", "amount": 1, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "onion", "amount": 1, "unit": "whole", "prep": "sliced", "category": "Fruit and Vegetables" },
+        { "item": "garlic cloves", "amount": 1, "unit": "whole", "prep": "crushed", "category": "Fruit and Vegetables" },
+        { "item": "butter", "amount": 1, "unit": "tbsp", "category": "Dairy" },
+        { "item": "mushrooms", "amount": 250, "unit": "g", "prep": "sliced", "category": "Fruit and Vegetables" },
+        { "item": "plain flour", "amount": 1, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "fillet steak", "amount": 500, "unit": "g", "prep": "sliced", "category": "Meat" },
+        { "item": "crème fraîche", "amount": 150, "unit": "g", "category": "Dairy" },
+        { "item": "english mustard", "amount": 1, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "beef stock", "amount": 100, "unit": "ml", "category": "Tinned/Cupboard" },
+        { "item": "parsley", "amount": 0.5, "unit": "pack", "prep": "chopped", "category": "Fruit and Vegetables" },
+        { "item": "microwave rice", "amount": 2, "unit": "packets", "category": "Tinned/Cupboard" },
+        { "item": "garlic bread", "amount": 1, "unit": "pack", "category": "Bakery" },
+        { "item": "tenderstem broccoli", "amount": 1, "unit": "pack", "category": "Fruit and Vegetables" },
+        { "item": "salt and pepper", "amount": null, "unit": null, "category": "Tinned/Cupboard" }
+      ]
+    },
+    {
+      "name": "Easy Risotto with Bacon & Peas",
+      "portions": 4,
+      "method": "1. Finely chop 1 onion. Heat 2 tbsp olive oil and a knob of butter in a pan. Add the onions and fry for about 7 minutes until lightly browned.\n2. Add 6 chopped rashers of streaky bacon and fry for 5 minutes until crisp.\n3. Add 300g risotto rice and 1 litre of hot vegetable stock. Stir well, bring to the boil, then reduce heat, cover and simmer for 15–20 minutes until the rice is almost tender.\n4. Stir in 100g frozen peas. Add a little salt and pepper, cook for 3 more minutes until the peas are cooked.\n5. Serve sprinkled with freshly grated parmesan and freshly ground black pepper.",
+      "ingredients": [
+        { "item": "onion", "amount": 1, "unit": "whole", "prep": "finely chopped", "category": "Fruit and Vegetables" },
+        { "item": "olive oil", "amount": 2, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "butter", "amount": 1, "unit": "knob", "category": "Dairy" },
+        { "item": "streaky bacon", "amount": 6, "unit": "rashers", "prep": "chopped", "category": "Meat" },
+        { "item": "risotto rice", "amount": 300, "unit": "g", "category": "Tinned/Cupboard" },
+        { "item": "vegetable stock", "amount": 1000, "unit": "ml", "category": "Tinned/Cupboard" },
+        { "item": "frozen peas", "amount": 100, "unit": "g", "category": "Frozen" },
+        { "item": "parmesan", "amount": null, "unit": null, "prep": "freshly grated, to serve", "category": "Dairy" },
+        { "item": "black pepper", "amount": null, "unit": null, "prep": "freshly ground", "category": "Tinned/Cupboard" },
+        { "item": "salt", "amount": null, "unit": null, "category": "Tinned/Cupboard" }
+      ]
+    },
+    {
+      "name": "Tomato & Mascarpone Risotto",
+      "portions": 2,
+      "method": "1. Heat the olive oil in a large, heavy-based saucepan. Add the onion and a pinch of salt. Fry for 10 minutes or until soft and translucent. Add the garlic and fry for 1 minute.\n2. Stir in the risotto rice and cook for 2 minutes.\n3. Add the cherry tomatoes and bring to a simmer. Pour in half the vegetable stock, stirring until absorbed. Add the remaining stock a ladleful at a time, stirring constantly, for about 20 minutes until the rice is al dente.\n4. Stir in the parmesan, mascarpone (or cream cheese), and chopped basil. Season to taste, then spoon into bowls and serve.",
+      "ingredients": [
+        { "item": "olive oil", "amount": 2, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "onion", "amount": 1, "unit": "whole", "prep": "very finely chopped", "category": "Fruit and Vegetables" },
+        { "item": "garlic cloves", "amount": 1, "unit": "large", "prep": "crushed", "category": "Fruit and Vegetables" },
+        { "item": "risotto rice", "amount": 175, "unit": "g", "category": "Tinned/Cupboard" },
+        { "item": "cherry tomatoes", "amount": 400, "unit": "g", "note": "can", "category": "Tinned/Cupboard" },
+        { "item": "vegetable stock", "amount": 600, "unit": "ml", "category": "Tinned/Cupboard" },
+        { "item": "parmesan", "amount": 30, "unit": "g", "prep": "grated", "note": "or vegetarian alternative", "category": "Dairy" },
+        { "item": "mascarpone", "amount": 30, "unit": "g", "note": "or cream cheese", "category": "Dairy" },
+        { "item": "basil", "amount": 0.5, "unit": "bunch", "prep": "chopped", "category": "Fruit and Vegetables" },
+        { "item": "salt and pepper", "amount": null, "unit": null, "category": "Tinned/Cupboard" }
+      ]
+    },
+    {
+      "name": "Chicken & Chorizo Paella",
+      "portions": 4,
+      "method": "1. Heat the olive oil in a deep frying pan over high heat. Brown the chicken chunks all over, but do not cook completely. Transfer to a plate.\n2. Lower the heat to low, add the sliced onions and cook slowly for about 10 minutes until softened. Add the garlic and cook for 1 minute. Add the chorizo and fry until it releases its oils.\n3. Stir in the turmeric, saffron, and paprika. Add the rice and stir to coat in the spices and oils for about 2 minutes. Pour in the hot stock and return the chicken to the pan. Simmer for about 20 minutes, stirring occasionally.\n4. Add the peas and cook for 5 more minutes until the rice is cooked and the chicken is tender. Season to taste. Serve with lemon wedges and chopped parsley.",
+      "ingredients": [
+        { "item": "olive oil", "amount": 1, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "chicken breast", "amount": 2, "unit": "fillets", "prep": "cut into chunks", "category": "Meat" },
+        { "item": "onions", "amount": 2, "unit": "small", "prep": "finely sliced", "category": "Fruit and Vegetables" },
+        { "item": "garlic cloves", "amount": 1, "unit": "large", "prep": "crushed", "category": "Fruit and Vegetables" },
+        { "item": "cooking chorizo", "amount": 140, "unit": "g", "prep": "sliced", "category": "Meat" },
+        { "item": "turmeric", "amount": 1, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "saffron", "amount": 1, "unit": "pinch", "category": "Tinned/Cupboard" },
+        { "item": "paprika", "amount": 1, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "paella rice", "amount": 300, "unit": "g", "category": "Tinned/Cupboard" },
+        { "item": "chicken or vegetable stock", "amount": 850, "unit": "ml", "prep": "hot", "category": "Tinned/Cupboard" },
+        { "item": "frozen peas", "amount": 200, "unit": "g", "category": "Frozen" },
+        { "item": "lemon", "amount": 1, "unit": "whole", "prep": "cut into wedges", "category": "Fruit and Vegetables" },
+        { "item": "parsley", "amount": 0.5, "unit": "bunch", "prep": "finely chopped", "category": "Fruit and Vegetables" },
+        { "item": "salt and pepper", "amount": null, "unit": null, "category": "Tinned/Cupboard" }
+      ]
+    },
+    {
+      "name": "Easy Chicken Chow Mein",
+      "portions": 2,
+      "method": "1. Cook the noodles in boiling water for 2–3 minutes or according to packet instructions, until al dente. Drain, rinse under cold water, drain again, and toss with a dash of sesame oil to prevent sticking.\n2. In a bowl, season the chicken strips with 1 tbsp light soy sauce, five-spice powder, and chilli sauce (if using). Mix well, then lightly coat with cornflour.\n3. Heat a wok until smoking. Add groundnut oil, then cook the chicken for 3–4 minutes until golden and cooked through.\n4. Add red pepper and stir-fry for 1 minute. Add beansprouts and spring onion, stir-fry for 30 seconds, then stir in the cooked noodles. Season with soy sauce, a dash of sesame oil, and freshly ground black pepper.\n5. Pile the noodles onto a serving plate and serve immediately.",
+      "ingredients": [
+        { "item": "medium egg noodles", "amount": 150, "unit": "g", "category": "Tinned/Cupboard" },
+        { "item": "toasted sesame oil", "amount": 1, "unit": "dash", "category": "Tinned/Cupboard" },
+        { "item": "chicken breast fillets", "amount": 300, "unit": "g", "prep": "sliced into strips", "category": "Meat" },
+        { "item": "light soy sauce", "amount": 2, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "five-spice powder", "amount": 1, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "chilli sauce", "amount": 1, "unit": "tsp", "optional": true, "category": "Tinned/Cupboard" },
+        { "item": "cornflour", "amount": 1, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "groundnut oil", "amount": 1, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "red pepper", "amount": 1, "unit": "whole", "prep": "seeds removed and thinly sliced", "category": "Fruit and Vegetables" },
+        { "item": "beansprouts", "amount": 150, "unit": "g", "category": "Fruit and Vegetables" },
+        { "item": "spring onion", "amount": 1, "unit": "whole", "prep": "sliced lengthways", "category": "Fruit and Vegetables" },
+        { "item": "black pepper", "amount": null, "unit": null, "prep": "freshly ground", "category": "Tinned/Cupboard" }
+      ]
+    },
+    {
+      "name": "Sticky Teriyaki Salmon Rice",
+      "portions": 1,
+      "method": "1. Mix teriyaki and sweet chilli sauces in a shallow dish. Lay the salmon fillet flesh-side down in the marinade and set aside.\n2. Place the rice in a saucepan, cover with cold water, bring to the boil, then simmer for 20 minutes until tender and water is absorbed. Six minutes before the rice is done, place the halved pak choi in a colander over the rice to steam with the lid on.\n3. Heat the grill to high. Place the salmon skin-side up on a foil-lined tray. Grill for 4–5 minutes, basting with marinade. Turn over and grill for another 3 minutes. Sprinkle with sesame seeds and grill for 1 more minute.\n4. Stir spring onions and coriander through the rice and serve with the salmon on top. Spoon over any remaining marinade and finish with a squeeze of lime. Serve with steamed pak choi.",
+      "ingredients": [
+        { "item": "teriyaki sauce", "amount": 1, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "sweet chilli sauce", "amount": 1, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "salmon fillet", "amount": 1, "unit": "whole", "prep": "skin on", "category": "Meat" },
+        { "item": "wholemeal basmati rice", "amount": 50, "unit": "g", "category": "Tinned/Cupboard" },
+        { "item": "pak choi", "amount": 1, "unit": "head", "prep": "halved", "category": "Fruit and Vegetables" },
+        { "item": "sesame seed", "amount": 1, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "spring onions", "amount": 2, "unit": "whole", "prep": "finely chopped", "category": "Fruit and Vegetables" },
+        { "item": "coriander", "amount": 1, "unit": "bunch", "prep": "roughly chopped", "category": "Fruit and Vegetables" },
+        { "item": "lime", "amount": 1, "unit": "wedge", "prep": "squeezed", "category": "Fruit and Vegetables" }
+      ]
+    },
+    {
+      "name": "Creamy Smoked Salmon and Lemon Pasta",
+      "portions": 4,
+      "method": "1. Bring a pan of salted water to the boil and cook the pasta for 2 minutes less than the packet instructions.\n2. Meanwhile, heat the olive oil in a frying pan over medium heat. Add the garlic and fry for 2–3 minutes until softened but not coloured. Stir in the crème fraîche, lemon juice, Parmesan, and 2 ladles of pasta water. Let it bubble gently for 1 minute.\n3. Drain the pasta and stir it into the sauce. Cook for a further 2 minutes until reduced to a creamy coating.\n4. Stir in the smoked salmon and chives, season with black pepper, and divide between bowls. Garnish with lemon zest and rocket.",
+      "ingredients": [
+        { "item": "tagliatelle", "amount": 350, "unit": "g", "note": "or pasta of your choice", "category": "Tinned/Cupboard" },
+        { "item": "olive oil", "amount": 1, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "garlic cloves", "amount": 3, "unit": "whole", "prep": "finely sliced", "category": "Fruit and Vegetables" },
+        { "item": "crème fraîche", "amount": 5, "unit": "tbsp", "category": "Dairy" },
+        { "item": "lemon", "amount": 1, "unit": "whole", "prep": "zested and juiced", "category": "Fruit and Vegetables" },
+        { "item": "Parmesan", "amount": 2, "unit": "tbsp", "prep": "grated", "category": "Dairy" },
+        { "item": "smoked salmon", "amount": 200, "unit": "g", "prep": "torn into strips", "category": "Meat" },
+        { "item": "chives", "amount": 30, "unit": "g", "prep": "finely chopped", "note": "or dill", "category": "Fruit and Vegetables" },
+        { "item": "rocket", "amount": 70, "unit": "g", "note": "bag", "category": "Fruit and Vegetables" },
+        { "item": "black pepper", "amount": null, "unit": null, "prep": "freshly ground", "category": "Tinned/Cupboard" },
+        { "item": "salt", "amount": null, "unit": null, "category": "Tinned/Cupboard" }
+      ]
+    },
+    {
+      "name": "Garlic Prawns and Mushrooms with Crusty Bread",
+      "portions": 4,
+      "method": "1. Place the prawns, 1 tbsp olive oil, and pepper in a bowl. Toss gently and marinate for 20 minutes.\n2. Heat 1 tbsp olive oil in a frying pan over high heat. Sear half the prawns for 45 seconds per side. Remove, repeat with the second half using 1 tbsp oil.\n3. Return all prawns to the pan, add garlic, and stir for 30 seconds. Pour in the wine and let it reduce, then stir in butter and lemon juice until melted. Add parsley and remove from heat.\n4. In a separate pan, heat 2 tbsp butter and 1 tbsp oil. Sauté the onion (if using) for 3 minutes until soft.\n5. Add mushrooms and cook for 4–5 minutes until golden. Pour in the wine and reduce for 2 minutes.\n6. Stir in thyme, 1 tbsp parsley, and garlic. Cook for 30 seconds until fragrant. Season with salt and pepper.\n7. Serve the prawns and mushrooms together on a platter or side-by-side. Garnish with remaining parsley and lemon wedges. Provide crusty bread for dipping into both sauces.",
+      "ingredients": [
+        { "item": "prawns (shrimp)", "amount": 500, "unit": "g", "prep": "peeled and deveined, tail on", "category": "Meat" },
+        { "item": "cremini mushrooms", "amount": 450, "unit": "g", "note": "or button mushrooms", "category": "Fruit and Vegetables" },
+        { "item": "olive oil", "amount": 4, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "unsalted butter", "amount": 6, "unit": "tbsp", "category": "Dairy" },
+        { "item": "garlic cloves", "amount": 8, "unit": "whole", "prep": "minced", "category": "Fruit and Vegetables" },
+        { "item": "white wine", "amount": 90, "unit": "ml", "note": "dry", "category": "Tinned/Cupboard" },
+        { "item": "lemon juice", "amount": 1, "unit": "tbsp", "category": "Fruit and Vegetables" },
+        { "item": "lemon wedges", "amount": null, "unit": null, "prep": "to serve", "category": "Fruit and Vegetables" },
+        { "item": "parsley", "amount": 3, "unit": "tbsp", "prep": "chopped", "category": "Fruit and Vegetables" },
+        { "item": "thyme", "amount": 1, "unit": "tsp", "prep": "chopped", "category": "Fruit and Vegetables" },
+        { "item": "onion", "amount": 0.5, "unit": "whole", "prep": "chopped", "optional": true, "category": "Fruit and Vegetables" },
+        { "item": "salt", "amount": 1, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "black pepper", "amount": 1, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "crusty bread", "amount": 1, "unit": "loaf", "prep": "for dipping", "category": "Bakery" }
+      ]
+    },
+    {
+      "name": "Meatballs & Spaghetti",
+      "portions": 2,
+      "method": "1. Bring a pot of salted water to the boil. Cook the spaghetti according to packet instructions, then drain and set aside.\n2. Meanwhile, finely chop the onion and mince the garlic. In a large pan, cook the streaky bacon over medium heat until just crispy. Remove and set aside.\n3. In the same pan, add the chopped onion and garlic and sauté for 2–3 minutes until soft.\n4. Add the meatballs to the pan and cook for about 8–10 minutes, turning occasionally, until browned all over.\n5. Pour in the marinara sauce and crumble in the cooked bacon. Simmer everything together for 10 minutes until the meatballs are cooked through.\n6. Tear the mozzarella into small pieces and stir into the sauce until just melted.\n7. Add the cooked spaghetti to the pan and toss to coat. Serve in bowls, topped with grated Parmesan and torn basil leaves.\n8. Serve with garlic bread on the side.",
+      "ingredients": [
+        { "item": "meatballs", "amount": 1, "unit": "pack", "note": "9–12", "category": "Meat" },
+        { "item": "spaghetti", "amount": 110, "unit": "g", "category": "Tinned/Cupboard" },
+        { "item": "marinara sauce", "amount": 1, "unit": "jar", "category": "Tinned/Cupboard" },
+        { "item": "onion", "amount": 0.5, "unit": "whole", "category": "Fruit and Vegetables" },
+        { "item": "garlic", "amount": 1, "unit": "clove", "category": "Fruit and Vegetables" },
+        { "item": "streaky bacon", "amount": 3, "unit": "slices", "category": "Meat" },
+        { "item": "basil", "amount": 1, "unit": "handful", "prep": "torn", "category": "Fruit and Vegetables" },
+        { "item": "mozzarella", "amount": 0.5, "unit": "ball", "category": "Dairy" },
+        { "item": "parmesan", "amount": null, "unit": null, "prep": "to taste", "category": "Dairy" },
+        { "item": "garlic bread", "amount": 1, "unit": "pack", "category": "Bakery" }
+      ]
+    },
+    {
+      "name": "Carbonara",
+      "portions": 3,
+      "method": "1. Bring a large pot of salted water to the boil. Cook the spaghetti until al dente according to the packet instructions. Reserve 1/2 cup of pasta water, then drain.\n2. While the pasta cooks, cut the pancetta or guanciale into small pieces. Cook in a frying pan over medium heat until golden and crispy. Remove from the heat.\n3. In a bowl, beat the eggs and mix in a generous handful of grated Parmesan. Season with black pepper.\n4. Add the hot drained spaghetti to the pan with the pancetta and toss to coat in the rendered fat. Let it cool slightly for 30 seconds.\n5. Pour the egg and cheese mixture over the pasta, stirring quickly to coat. Add a splash of the reserved pasta water to loosen the sauce if needed.\n6. Serve immediately, topped with extra Parmesan and freshly ground black pepper.",
+      "ingredients": [
+        { "item": "eggs", "amount": 3, "unit": "whole", "category": "Dairy" },
+        { "item": "parmesan", "amount": null, "unit": null, "prep": "grated", "category": "Dairy" },
+        { "item": "guanciale or pancetta", "amount": 100, "unit": "g", "category": "Meat" },
+        { "item": "spaghetti", "amount": 240, "unit": "g", "note": "approx. 3 portions", "category": "Tinned/Cupboard" },
+        { "item": "salt", "amount": null, "unit": null, "category": "Tinned/Cupboard" },
+        { "item": "black pepper", "amount": null, "unit": null, "category": "Tinned/Cupboard" }
+      ]
+    },
+    {
+      "name": "Fajitas",
+      "portions": 4,
+      "method": "1. Slice the chicken breasts into thin strips. Thinly slice the onion and both peppers.\n2. Heat a drizzle of oil in a large frying pan over medium-high heat. Add the chicken and cook for 5–6 minutes until browned and cooked through.\n3. Add the sliced onion and peppers to the pan. Cook for another 5 minutes until soft.\n4. Sprinkle in the fajita seasoning mix and stir well to coat. Cook for 2–3 more minutes until everything is well coated and fragrant.\n5. Warm the tortilla wraps in a dry pan, microwave or oven.\n6. Serve everything at the table with bowls of grated cheddar cheese, sour cream, guacamole, and salsa. Let everyone build their own fajitas.",
+      "ingredients": [
+        { "item": "tortilla wraps", "amount": 8, "unit": "whole", "note": "or as needed", "category": "Bakery" },
+        { "item": "chicken breasts", "amount": 2, "unit": "whole", "prep": "sliced", "category": "Meat" },
+        { "item": "fajita packet mix", "amount": 1, "unit": "pack", "category": "Tinned/Cupboard" },
+        { "item": "onion", "amount": 1, "unit": "whole", "prep": "sliced", "category": "Fruit and Vegetables" },
+        { "item": "red pepper", "amount": 1, "unit": "whole", "prep": "sliced", "category": "Fruit and Vegetables" },
+        { "item": "yellow pepper", "amount": 1, "unit": "whole", "prep": "sliced", "category": "Fruit and Vegetables" },
+        { "item": "cheddar cheese", "amount": null, "unit": null, "prep": "grated", "category": "Dairy" },
+        { "item": "sour cream", "amount": null, "unit": null, "prep": "to serve", "category": "Dairy" },
+        { "item": "guacamole", "amount": null, "unit": null, "prep": "to serve", "category": "Tinned/Cupboard" },
+        { "item": "salsa", "amount": null, "unit": null, "prep": "to serve", "category": "Tinned/Cupboard" }
+      ]
+    },
+    {
+      "name": "Swedish Meatballs",
+      "portions": 2,
+      "method": "1. Cook the Swedish meatballs in a frying pan over medium heat for 10–12 minutes, turning regularly until browned and cooked through.\n2. While the meatballs cook, prepare the gravy according to the instructions on the packet using the Swedish meatball gravy mix.\n3. Heat the mashed potatoes either in the microwave or in a saucepan over low heat, stirring occasionally until hot.\n4. Boil or steam the peas for 3–4 minutes until tender.\n5. Serve the meatballs with mashed potatoes, peas, and a generous spoonful of the gravy over the top.",
+      "ingredients": [
+        { "item": "Swedish meatballs", "amount": 1, "unit": "pack", "category": "Meat" },
+        { "item": "Swedish meatball gravy mix", "amount": 1, "unit": "pack", "category": "Tinned/Cupboard" },
+        { "item": "mashed potatoes", "amount": 400, "unit": "g", "category": "Tinned/Cupboard" },
+        { "item": "peas", "amount": 150, "unit": "g", "category": "Frozen" }
+      ]
+    },
+    {
+      "name": "Chicken Egg Fried Rice",
+      "portions": 3,
+      "method": "1. Dice the chicken breast, bacon, onion, carrot, and spring onions. Mince the garlic.\n2. Heat 1 tbsp oil in a large frying pan or wok over medium-high heat. Add the chicken and cook for 5–6 minutes until browned and cooked through. Remove and set aside.\n3. In the same pan, add the remaining 1 tbsp oil. Fry the bacon until golden, then add onion, garlic, and carrot. Cook for 2–3 minutes until softened.\n4. Add the corn and peas and cook for another 2 minutes. Stir in the cooked chicken.\n5. Push everything to one side of the pan. Crack in 2 eggs and scramble until just cooked, then mix into the rest.\n6. Add the pre-cooked rice and toss well to combine and heat through. Stir in most of the spring onions.\n7. Season to taste and garnish with the remaining spring onions before serving.",
+      "ingredients": [
+        { "item": "vegetable oil", "amount": 2, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "chicken breasts", "amount": 2, "unit": "whole", "prep": "diced", "category": "Meat" },
+        { "item": "garlic cloves", "amount": 2, "unit": "whole", "prep": "minced", "category": "Fruit and Vegetables" },
+        { "item": "onion", "amount": 0.5, "unit": "whole", "prep": "diced", "category": "Fruit and Vegetables" },
+        { "item": "bacon", "amount": 120, "unit": "g", "prep": "chopped", "category": "Meat" },
+        { "item": "carrot", "amount": 1, "unit": "small", "prep": "diced", "category": "Fruit and Vegetables" },
+        { "item": "sweetcorn", "amount": 125, "unit": "g", "category": "Tinned/Cupboard" },
+        { "item": "peas", "amount": 125, "unit": "g", "category": "Frozen" },
+        { "item": "white rice", "amount": 2, "unit": "packets", "prep": "pre-cooked", "category": "Tinned/Cupboard" },
+        { "item": "eggs", "amount": 2, "unit": "whole", "category": "Dairy" },
+        { "item": "spring onions", "amount": 2, "unit": "whole", "prep": "sliced", "category": "Fruit and Vegetables" }
+      ]
+    },
+    {
+      "name": "Steak, sauce and chips",
+      "portions": 2,
+      "method": "1. Season steaks with salt and pepper. Bring to room temperature for 20 minutes.\n2. Heat a frying pan or griddle over high heat with a splash of oil. Sear steaks for 2–4 minutes each side depending on thickness and preferred doneness.\n3. Rest for 5 minutes under foil.\n4. Heat or serve with chosen steak sauces.\n5. Serve with chips or mash.",
+      "ingredients": [
+        { "item": "steaks", "amount": 2, "unit": "whole", "category": "Meat" },
+        { "item": "steak sauces", "amount": 2, "unit": "servings", "category": "Tinned/Cupboard" },
+        { "item": "chips or mashed potatoes", "amount": null, "unit": null, "category": "Frozen" }
+      ]
+    },
+    {
+      "name": "Gammon and chips",
+      "portions": 2,
+      "method": "1. Grill or pan-fry gammon steaks for 4–5 minutes per side until cooked through.\n2. Fry eggs sunny side up in a separate pan.\n3. Boil or steam peas until tender.\n4. Serve gammon topped with a fried egg and a side of chips and peas.",
+      "ingredients": [
+        { "item": "gammon steaks", "amount": 2, "unit": "whole", "category": "Meat" },
+        { "item": "eggs", "amount": 2, "unit": "whole", "category": "Dairy" },
+        { "item": "peas", "amount": 125, "unit": "g", "category": "Frozen" },
+        { "item": "chips", "amount": null, "unit": null, "category": "Frozen" }
+      ]
+    },
+    {
+      "name": "Fish Fingers, beans and chips",
+      "portions": 2,
+      "method": "1. Cook fish fingers according to packet instructions.\n2. Boil or steam peas and sweetcorn for 4–5 minutes until tender.\n3. Heat baked beans in a saucepan or microwave.\n4. Serve fish fingers with chips, peas, sweetcorn, and beans.",
+      "ingredients": [
+        { "item": "fish fingers", "amount": 8, "unit": "whole", "category": "Frozen" },
+        { "item": "chips", "amount": null, "unit": null, "category": "Frozen" },
+        { "item": "baked beans", "amount": 1, "unit": "tin", "category": "Tinned/Cupboard" },
+        { "item": "peas", "amount": 125, "unit": "g", "category": "Frozen" },
+        { "item": "sweetcorn", "amount": 125, "unit": "g", "category": "Frozen" }
+      ]
+    },
+    {
+      "name": "Bangers and Mash",
+      "portions": 4,
+      "method": "1. Cook sausages in the oven or frying pan until browned and cooked through.\n2. Heat mashed potatoes and cook peas and sweetcorn until tender.\n3. Serve sausages over mash with peas and sweetcorn on the side. Add gravy if desired.",
+      "ingredients": [
+        { "item": "sausages", "amount": 12, "unit": "whole", "category": "Meat" },
+        { "item": "mashed potatoes", "amount": 800, "unit": "g", "category": "Tinned/Cupboard" },
+        { "item": "peas", "amount": 200, "unit": "g", "category": "Frozen" },
+        { "item": "sweetcorn", "amount": 200, "unit": "g", "category": "Frozen" }
+      ]
+    },
+    {
+      "name": "Jacket Potato",
+      "portions": 2,
+      "method": "1. Pierce potatoes with a fork. Rub with oil and salt. Bake at 200°C for 1 hour or microwave for 10 minutes until soft.\n2. Slice open, add butter, salt and pepper.\n3. Top with chosen jacket potato toppings and serve.",
+      "ingredients": [
+        { "item": "large baking potatoes", "amount": 2, "unit": "whole", "category": "Fruit and Vegetables" },
+        { "item": "butter", "amount": null, "unit": null, "category": "Dairy" },
+        { "item": "salt and pepper", "amount": null, "unit": null, "category": "Tinned/Cupboard" },
+        { "item": "jacket potato toppings", "amount": null, "unit": null, "prep": "as preferred", "category": "Tinned/Cupboard" }
+      ]
+    },
+    {
+      "name": "Katsu Curry",
+      "portions": 2,
+      "method": "1. Slice chicken breast in half horizontally to make two cutlets. Coat in cornflour, dip in egg, then coat in panko.\n2. Shallow fry until golden and cooked through. Rest on paper towel.\n3. Heat the katsu sauce in a saucepan.\n4. Heat sticky rice and serve with sliced chicken and sauce on top.",
+      "ingredients": [
+        { "item": "chicken breast", "amount": 1, "unit": "large", "prep": "halved", "category": "Meat" },
+        { "item": "cornflour", "amount": null, "unit": null, "category": "Tinned/Cupboard" },
+        { "item": "panko breadcrumbs", "amount": null, "unit": null, "category": "Tinned/Cupboard" },
+        { "item": "sticky rice", "amount": 2, "unit": "portions", "category": "Tinned/Cupboard" },
+        { "item": "katsu curry sauce", "amount": 1, "unit": "pack", "category": "Tinned/Cupboard" }
+      ]
+    },
+    {
+      "name": "Grilled Chicken with Salad",
+      "portions": 2,
+      "method": "1. Season the chicken breast and grill or pan-fry until cooked through.\n2. Assemble salad ingredients in a bowl or plate.\n3. Slice the chicken and serve over the salad. Add dressing if desired.",
+      "ingredients": [
+        { "item": "chicken breast", "amount": 1, "unit": "whole", "category": "Meat" },
+        { "item": "salad ingredients", "amount": null, "unit": null, "note": "lettuce, cucumber, tomato, etc.", "category": "Fruit and Vegetables" }
+      ]
+    },
+    {
+      "name": "Lucky Chicken Burger",
+      "portions": 4,
+      "method": "1. Slice chicken breasts into 4 pieces. Coat in Cajun seasoning and cook in a pan or grill until done.\n2. Fry bacon until crispy. Toast brioche buns if desired.\n3. Assemble burgers with chicken, bacon, cheddar, guacamole, and any extras.\n4. Serve with chips on the side.",
+      "ingredients": [
+        { "item": "brioche buns", "amount": 4, "unit": "whole", "category": "Bakery" },
+        { "item": "chicken breasts", "amount": 2, "unit": "large", "prep": "sliced", "category": "Meat" },
+        { "item": "streaky bacon", "amount": 8, "unit": "slices", "category": "Meat" },
+        { "item": "cheddar cheese", "amount": null, "unit": null, "category": "Dairy" },
+        { "item": "guacamole", "amount": null, "unit": null, "category": "Tinned/Cupboard" },
+        { "item": "cajun seasoning", "amount": null, "unit": null, "category": "Tinned/Cupboard" },
+        { "item": "chips", "amount": null, "unit": null, "category": "Frozen" }
+      ]
+    },
+    {
+      "name": "Burger",
+      "portions": 2,
+      "method": "1. Cook beef burgers to desired doneness. Fry bacon until crispy. Toast brioche buns.\n2. Slice tomato and red onion. Assemble burgers with lettuce, bacon, onion, and tomato.\n3. Serve with chips on the side.",
+      "ingredients": [
+        { "item": "brioche buns", "amount": 2, "unit": "whole", "category": "Bakery" },
+        { "item": "streaky bacon", "amount": 4, "unit": "slices", "category": "Meat" },
+        { "item": "beef burgers", "amount": 2, "unit": "whole", "category": "Meat" },
+        { "item": "lettuce", "amount": null, "unit": null, "category": "Fruit and Vegetables" },
+        { "item": "red onion", "amount": 1, "unit": "whole", "prep": "sliced", "category": "Fruit and Vegetables" },
+        { "item": "tomato", "amount": 1, "unit": "whole", "prep": "sliced", "category": "Fruit and Vegetables" },
+        { "item": "chips", "amount": null, "unit": null, "category": "Frozen" }
+      ]
+    }
+  ]
+}
