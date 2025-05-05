@@ -269,6 +269,74 @@
       ]
     },
     {
+      "name": "Tomatoey Sausage & Tenderstem Conchiglie With Crispy Onions",
+      "portions": 2,
+      "method": "1. Boil a kettle. Halve cherry tomatoes. Peel and finely chop the garlic. Chop the tenderstem broccoli into bite-sized pieces. Finely chop the basil (stalks and all).\n2. In a bowl, mix tomato paste (25g), balsamic vinegar (15ml), and a pinch of sugar with 150ml boiled water to make tomatoey stock.\n3. Heat a large non-stick pan (with a matching lid) with oil over medium-high heat. Add sausage meat and break it up. Cook for 5–6 mins until browned.\n4. Meanwhile, add conchiglie to a pot of salted boiling water. Cook for 8–10 mins until al dente. Drain and set aside.\n5. Add garlic to the sausage and cook for 1 min. Then add tenderstem broccoli and cherry tomatoes. Cook for 2–3 mins until the broccoli is slightly softened.\n6. Pour in the tomatoey stock. Cover and simmer for 4–5 mins until reduced.\n7. Add the drained conchiglie and chopped basil to the pan. Mix well.\n8. Serve in bowls and garnish with crispy onions and black pepper to taste.",
+      "ingredients": [
+        { "item": "cherry tomatoes", "amount": 125, "unit": "g", "category": "Fruit and Vegetables" },
+        { "item": "garlic clove", "amount": 1, "unit": "whole", "prep": "finely chopped", "category": "Fruit and Vegetables" },
+        { "item": "tenderstem broccoli", "amount": 100, "unit": "g", "category": "Fruit and Vegetables" },
+        { "item": "basil", "amount": 5, "unit": "g", "prep": "chopped", "category": "Fruit and Vegetables" },
+        { "item": "tomato paste", "amount": 25, "unit": "g", "category": "Tinned/Cupboard" },
+        { "item": "balsamic vinegar", "amount": 15, "unit": "ml", "category": "Tinned/Cupboard" },
+        { "item": "sausage meat", "amount": 150, "unit": "g", "category": "Meat" },
+        { "item": "chicken stock mix", "amount": 3, "unit": "g", "category": "Tinned/Cupboard" },
+        { "item": "conchiglie pasta", "amount": 120, "unit": "g", "category": "Tinned/Cupboard" },
+        { "item": "crispy onions", "amount": 2, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "sugar", "amount": 1, "unit": "pinch", "category": "Tinned/Cupboard" }
+      ]
+    },
+    {
+      "name": "Creamy Sausage & Red Onion Tart",
+      "portions": 2,
+      "method": "1. Preheat the oven to 200°C/180°C fan/gas 6. Peel and finely slice the red onion.\n2. Heat a frying pan with a drizzle of vegetable oil over medium heat. Cook the red onion with a pinch of salt and sugar for 10–15 minutes until soft and caramelised.\n3. While the onion is cooking, dust your work surface with flour and roll the puff pastry to approx. 0.5cm thick with a rolling pin. Cut into rectangles (1 per person).\n4. Line a baking tray with baking paper. Place the pastry rectangles on the tray and score a 1cm border around the edge. Prick the middle with a fork.\n5. Spread the soft cheese onto the pastry sheets, keeping within the border.\n6. Sprinkle over the caramelised onions and sausage meat (broken into small pieces). Press lightly.\n7. Bake in the oven for 20–25 minutes or until the pastry is golden and puffed.\n8. While baking, toss the baby leaf salad with olive oil, salt and pepper.\n9. Serve the tart hot with the dressed salad on the side.",
+      "ingredients": [
+        { "item": "puff pastry", "amount": 160, "unit": "g", "category": "Tinned/Cupboard" },
+        { "item": "red onion", "amount": 1, "unit": "whole", "prep": "sliced", "category": "Fruit and Vegetables" },
+        { "item": "soft cheese", "amount": 50, "unit": "g", "category": "Dairy" },
+        { "item": "sausage meat", "amount": 150, "unit": "g", "category": "Meat" },
+        { "item": "baby leaf salad", "amount": 50, "unit": "g", "category": "Fruit and Vegetables" },
+        { "item": "vegetable oil", "amount": 1, "unit": "tbsp", "category": "Tinned/Cupboard" },
+        { "item": "sugar", "amount": 1, "unit": "pinch", "category": "Tinned/Cupboard" },
+        { "item": "salt and pepper", "amount": null, "unit": null, "category": "Tinned/Cupboard" },
+        { "item": "flour", "amount": 1, "unit": "tbsp", "prep": "for dusting", "category": "Tinned/Cupboard" }
+      ]
+    },
+    {
+      "name": "Lamb Doner With Chilli Sauce And Chips",
+      "portions": 2,
+      "method": "1. Preheat oven to 220°C / 200°C fan / gas 7.\n2. While chips cook, peel and finely chop half the red onion. Set the rest aside. Peel and grate the garlic.\n3. Add lamb mince to a bowl with panko breadcrumbs, half the chopped garlic, half the chopped onion, curry powder, and salt. Mix thoroughly.\n4. Press mixture into two A3-sized sheets of baking paper. Roll to 0.5cm thickness. Transfer to a tray and bake for 13–20 mins or until cooked through.\n5. Meanwhile, shred the lettuce and pat dry. Finely slice the tomato. Slice the remaining onion. Set aside.\n6. In a small bowl, combine tomato ketchup, remaining garlic, red wine vinegar, and a pinch of chilli flakes. Mix to make chilli sauce.\n7. In another bowl, combine mayo and garlic. Mix well for garlic mayo.\n8. Once lamb is cooked, rest briefly, then slice into long strips. Warm pittas if desired. Serve with lettuce, tomato, lamb, garlic mayo, and chilli sauce. Serve chips on the side.",
+      "ingredients": [
+        { "item": "chips", "amount": null, "unit": null, "prep": "to serve", "category": "Frozen" },
+        { "item": "red onion", "amount": 1, "unit": "whole", "prep": "half chopped, half sliced", "category": "Fruit and Vegetables" },
+        { "item": "garlic cloves", "amount": 2, "unit": "whole", "prep": "grated", "category": "Fruit and Vegetables" },
+        { "item": "british lamb mince", "amount": 250, "unit": "g", "category": "Meat" },
+        { "item": "panko breadcrumbs", "amount": 20, "unit": "g", "category": "Tinned/Cupboard" },
+        { "item": "ground curry", "amount": 1, "unit": "tsp", "category": "Tinned/Cupboard" },
+        { "item": "mayonnaise", "amount": 30, "unit": "ml", "category": "Dairy" },
+        { "item": "red wine vinegar", "amount": 10, "unit": "ml", "category": "Tinned/Cupboard" },
+        { "item": "chilli flakes", "amount": 1, "unit": "pinch", "category": "Tinned/Cupboard" },
+        { "item": "tomato ketchup", "amount": 30, "unit": "ml", "category": "Tinned/Cupboard" },
+        { "item": "lettuce", "amount": 50, "unit": "g", "prep": "shredded", "category": "Fruit and Vegetables" },
+        { "item": "tomato", "amount": 1, "unit": "whole", "prep": "sliced", "category": "Fruit and Vegetables" },
+        { "item": "wholemeal pittas", "amount": 2, "unit": "whole", "category": "Bakery" }
+      ]
+    },
+    {
+      "name": "Prosciutto & Caprese-Style Sauce With Spinach & Ricotta Ravioli",
+      "portions": 2,
+      "method": "1. Boil a kettle. Peel and slice (don't chop) garlic. Chop basil roughly, including the stalks.\n2. Add prosciutto slices to a plate and microwave for 1–2 min or until crispy. Set aside.\n3. Heat a large wide-based pan (preferably non-stick) with oil over medium heat. Add sliced garlic and cook for 1–2 min until fragrant.\n4. Add chopped tomatoes, sugar, and a pinch of salt. Simmer for 2–3 min until the sauce has thickened.\n5. Chop mozzarella into rough, bite-sized pieces.\n6. Cook ravioli in a pot of salted boiling water for 3–4 min or until al dente. Drain.\n7. Add drained ravioli and chopped mozzarella to the tomato sauce. Stir to combine.\n8. Serve the ravioli and sauce topped with crispy prosciutto and chopped basil. Finish with black pepper and a drizzle of oil.",
+      "ingredients": [
+        { "item": "garlic clove", "amount": 1, "unit": "whole", "prep": "sliced", "category": "Fruit and Vegetables" },
+        { "item": "basil", "amount": 5, "unit": "g", "prep": "chopped", "category": "Fruit and Vegetables" },
+        { "item": "chopped tomatoes", "amount": 210, "unit": "g", "category": "Tinned/Cupboard" },
+        { "item": "sugar", "amount": 1, "unit": "pinch", "category": "Tinned/Cupboard" },
+        { "item": "mozzarella", "amount": 62, "unit": "g", "prep": "chopped", "category": "Chilled" },
+        { "item": "prosciutto", "amount": 30, "unit": "g", "prep": "crispy", "category": "Chilled" },
+        { "item": "spinach and ricotta ravioli", "amount": 250, "unit": "g", "category": "Chilled" }
+      ]
+    },
+    {
       "name": "Chicken Pasta Bake",
       "portions": 6,
       "method": "1. Heat 2 tbsp of the oil in a pan over a medium heat and fry the onion gently for 10–12 minutes. Add the garlic and chilli flakes and cook for 1 minute. Tip in the tomatoes and sugar and season to taste. Simmer uncovered for 20 minutes or until thickened, then stir through the mascarpone.\n2. Heat 1 tbsp of oil in a non-stick frying pan. Season the chicken and fry for 5–7 minutes or until the chicken is cooked through.\n3. Heat the oven to 220C/200C fan/gas 7. Cook the penne following pack instructions. Drain and toss with the remaining oil. Tip the pasta into a medium-sized ovenproof dish. Stir in the chicken and pour over the sauce. Top with the cheddar, mozzarella, and parsley. Bake for 20 minutes or until golden brown and bubbling.",
