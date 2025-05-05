@@ -331,9 +331,9 @@
         { "item": "basil", "amount": 5, "unit": "g", "prep": "chopped", "category": "Fruit and Vegetables" },
         { "item": "chopped tomatoes", "amount": 210, "unit": "g", "category": "Tinned/Cupboard" },
         { "item": "sugar", "amount": 1, "unit": "pinch", "category": "Tinned/Cupboard" },
-        { "item": "mozzarella", "amount": 62, "unit": "g", "prep": "chopped", "category": "Chilled" },
-        { "item": "prosciutto", "amount": 30, "unit": "g", "prep": "crispy", "category": "Chilled" },
-        { "item": "spinach and ricotta ravioli", "amount": 250, "unit": "g", "category": "Chilled" }
+        { "item": "mozzarella", "amount": 62, "unit": "g", "prep": "chopped", "category": "Dairy" },
+        { "item": "prosciutto", "amount": 30, "unit": "g", "prep": "crispy", "category": "Meat" },
+        { "item": "spinach and ricotta ravioli", "amount": 250, "unit": "g", "category": "Dairy" }
       ]
     },
     {
